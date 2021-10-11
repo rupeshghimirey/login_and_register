@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    /* outline: 1px dashed red; */
+}
+/* .login-register {
+    display: flex;
+    justify-content: space-between;
+} */
+.background-image-register {
+    background-image: url("flask_app/static/img/pexels-shonejai-1227511.jpg");
+    background-color: #4b4545;
+}
+.form-header {
+    color:#fcbf0c;
+}
+.form-box {
+    background-color: #33393d;
+    padding: 20px;
+    margin: 30px;
+    color:white;
+    
+}
+
+.result-box {
+    background-color: #33393d;
+    padding: 20px;
+    color: white;
+}
+.result-box h2 {
+    text-align: center;
+    color: #fcbf0c;
+}
+.result-box span {
+    
+    color: #fcbf0c;
+}
+.go-back-button {
+    text-align: end;
+    margin-right: 10px;
+}
+
+
+
